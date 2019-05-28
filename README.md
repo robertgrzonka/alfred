@@ -1,3 +1,3 @@
-# <img src='./public/alfred_av.jpg' width='100px'> Alfred
+# <img src='./public/alfred_av.jpg'> Alfred
 
 > Discord bot without any magic. Yet.
